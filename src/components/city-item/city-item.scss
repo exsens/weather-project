@@ -1,0 +1,7 @@
+.city-item{
+  & span {
+    display: block;
+    padding: 5px;
+    text-transform: capitalize;
+  }
+}
